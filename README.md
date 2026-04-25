@@ -1,6 +1,6 @@
 # Mobile App Testing
 
-This repository contains manual test cases and documentation from my internship at QuickTech IT Limited. I worked as a Software Quality Assurance (SQA) Intern and Junior Project Manager. 
+This repository contains manual test cases and documentation from my Tested Apps. I worked as a Software Quality Assurance (SQA) Intern and Junior Project Manager. 
 
 ## Responsibilities
 - Conducted manual testing for a mobile application
